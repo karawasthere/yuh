@@ -1,0 +1,105 @@
+{
+  "users": {
+    "6281214281312@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6285810548240@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6289609627534@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6281574735849@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6285770834267@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    }
+  },
+  "chats": {
+    "6281214281312@s.whatsapp.net": {
+      "mute": false
+    },
+    "120363041426385506@g.us": {
+      "mute": false
+    },
+    "120363042561799035@g.us": {
+      "mute": false
+    },
+    "6285810548240@s.whatsapp.net": {
+      "mute": false
+    },
+    "120363024855344165@g.us": {
+      "mute": false
+    },
+    "120363024614011717@g.us": {
+      "mute": false
+    },
+    "6289609627534@s.whatsapp.net": {
+      "mute": false
+    },
+    "6281574735849@s.whatsapp.net": {
+      "mute": false
+    },
+    "6285770834267@s.whatsapp.net": {
+      "mute": false
+    },
+    "120363043050987516@g.us": {
+      "mute": false
+    },
+    "120363045820937159@g.us": {
+      "mute": false
+    },
+    "6281281136544-1633515585@g.us": {
+      "mute": false
+    },
+    "62895344311788@s.whatsapp.net": {
+      "mute": false
+    },
+    "120363027343497814@g.us": {
+      "mute": false
+    },
+    "6285839706299@s.whatsapp.net": {
+      "mute": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6281214281312@s.whatsapp.net": {
+      "status": 0,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "available": false,
+      "composing": false,
+      "recording": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
